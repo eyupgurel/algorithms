@@ -1,0 +1,5 @@
+/home/egl/Documents/sc/C++/Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egl/Documents/sc/C++/Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egl/Documents/sc/C++/Algorithms/cmake-build-debug/Algorithms/CMakeFiles/rebuild_cache.dir
+/home/egl/Documents/sc/C++/Algorithms/cmake-build-debug/Algorithms/CMakeFiles/Algorithms.dir
+/home/egl/Documents/sc/C++/Algorithms/cmake-build-debug/Algorithms/CMakeFiles/edit_cache.dir

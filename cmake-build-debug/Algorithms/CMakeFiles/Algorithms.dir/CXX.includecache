@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/hanoitowers.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/main.cpp
+main.h
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/main.h
+
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/main.h
+hanoitowers.h
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/hanoitowers.h
+mergesort.h
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/mergesort.h
+
+/home/egl/Documents/sc/C++/Algorithms/Algorithms/mergesort.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+
